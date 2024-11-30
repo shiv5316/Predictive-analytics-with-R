@@ -1,0 +1,22 @@
+#Data Analysis-----
+
+1)read file
+  a)read.csv
+  b)read.excel
+2)preprocessing
+  a)numerical
+        1)is.na
+	2)na.rm
+	3)is.nan
+	4)omit
+	5)complete.case
+	
+3)train and test------sample.split
+
+4)model
+	a)knn
+	b)naive bayes()
+	c)predict
+5)performance measure
+	a)table()
+	b)confusion matrix()
